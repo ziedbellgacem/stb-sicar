@@ -1,0 +1,77 @@
+.sectionTwo {
+  background-color: #eff5ff;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.sectionTwo h1 {
+  text-align: center;
+  margin-bottom: 50px;
+  letter-spacing: 2px;
+  font-family: "Open Sans", sans-serif;
+  font-weight: bolder;
+}
+.sectionTwo h1:hover {
+  color: rgb(30, 79, 216);
+}
+.sectionTwoPres {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  margin: 0px 50px;
+}
+.sectionTwo .p1 {
+  font-size: 42px;
+}
+.sectionTwo .p2 {
+  font-size: 20px;
+  color: #777;
+}
+.sectionTwoPres h2 span {
+  color: rgb(30, 79, 216);
+}
+.chifreCle {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 130px;
+  justify-content: space-evenly;
+  background-color: white;
+  margin: 50px;
+  text-align: center;
+  padding: 30px 0px;
+}
+.chifreCle h4 {
+  background-color: rgb(30, 79, 216);
+  border-radius: 50%;
+  color: white;
+  padding: 35px;
+  width: 120px;
+  height: 120px;
+  text-align: center;
+  font-size: xx-large;
+}
+.sectionTwoImgCenter {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 30px;
+}
+.sectionTwoImg {
+  position: relative;
+}
+.sectionTwoTrailer {
+  position: absolute;
+  top: 40%;
+  right: 40%;
+}
+.sectionTwoTrailer h3 {
+  color: white;
+  font-weight: bolder;
+  font-size: 60px;
+}
+.sectionTwoTrailer i {
+  color: rgb(30, 79, 216);
+  font-size: 100px;
+  margin: 0px 30%;
+  cursor: pointer;
+}

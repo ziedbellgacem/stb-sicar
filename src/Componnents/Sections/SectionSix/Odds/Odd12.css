@@ -1,0 +1,11 @@
+.odd12 {
+  background-color: #7b68ee;
+  color: white;
+  margin: 50px 50px 112px 50px;
+  border-radius: 20px;
+}
+.odd12Cont {
+  padding: 100px;
+  display: flex;
+  gap: 130px;
+}

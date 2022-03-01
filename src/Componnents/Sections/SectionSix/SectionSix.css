@@ -1,0 +1,40 @@
+.sectionSix {
+  background-color: #eff5ff;
+  height: 1500px;
+}
+
+.sectionSixCont {
+  padding: 50px;
+  position: relative;
+}
+.sectionSixCont p {
+  padding: 30px 0px;
+  font-weight: 600;
+  font-size: 20px;
+}
+.sectionSixContOdd {
+  position: absolute;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 40px;
+  cursor: pointer;
+}
+.sectionSixContOdd img:hover {
+  transform: scale(1.2);
+}
+.odd16 {
+  display: block;
+  margin-left: 544px;
+}
+.map {
+  display: flex;
+  gap: 50px;
+}
+.map img {
+  height: 600px;
+  margin-bottom: 50px;
+  width: 450px;
+}
+.map img:hover {
+  transform: scale(1.15);
+}

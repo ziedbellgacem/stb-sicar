@@ -1,0 +1,11 @@
+.odd5 {
+  background-color: #d2691e;
+  color: white;
+  margin: 50px 50px 112px 50px;
+  border-radius: 20px;
+}
+.odd5Cont {
+  padding: 100px;
+  display: flex;
+  gap: 30px;
+}

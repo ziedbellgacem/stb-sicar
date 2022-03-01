@@ -1,0 +1,11 @@
+.odd16 {
+  background-color: #dda0dd;
+  color: white;
+  margin: 50px 50px 112px 50px;
+  border-radius: 20px;
+}
+.odd16Cont {
+  padding: 100px;
+  display: flex;
+  gap: 110px;
+}

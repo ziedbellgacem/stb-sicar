@@ -1,0 +1,11 @@
+.odd9 {
+  background-color: #90ee90;
+  color: white;
+  margin: 50px 50px 112px 50px;
+  border-radius: 20px;
+}
+.odd9Cont {
+  padding: 100px;
+  display: flex;
+  gap: 110px;
+}

@@ -1,0 +1,85 @@
+.sectionSevenContTitle {
+  background-color: #0000cd;
+  color: white;
+  padding: 80px;
+  width: 600px;
+  margin-left: 50px;
+  line-height: 2rem;
+}
+.sectionSeven h1 {
+  text-align: center;
+  margin-bottom: 50px;
+  letter-spacing: 2px;
+  font-family: "Open Sans", sans-serif;
+  font-weight: bolder;
+  margin-top: 50px;
+}
+.sectionSeven h1:hover {
+  color: rgb(30, 79, 216);
+}
+.sectionSevenCont {
+  display: flex;
+  gap: 200px;
+}
+.images {
+  margin-top: 50px;
+  display: flex;
+  justify-content: space-evenly;
+}
+.sectionSevenContTitle2 {
+  background-color: #0000cd;
+  color: white;
+  padding: 80px;
+  margin: 50px;
+  margin-left: 50px;
+  line-height: 2rem;
+}
+.sectionSeven h4 {
+  text-align: center;
+  background-color: #8b008b;
+  margin: 50px 30%;
+  padding: 50px;
+  color: white;
+  border-radius: 10px;
+}
+.sectionSevenFond {
+  display: flex;
+  margin: 0px 50px;
+  gap: 10px;
+}
+.cont1 {
+  background-color: #faebd7;
+  padding: 50px 50px;
+  border-radius: 10px;
+  text-align: center;
+  font-weight: bold;
+  width: 1000px;
+}
+.cont11 {
+  background-color: #ff7f50;
+  padding: 50px 50px;
+  border-radius: 10px;
+  height: 200px;
+}
+.cont2 {
+  background-color: #add8e6;
+  padding: 50px 50px;
+  border-radius: 10px;
+  text-align: center;
+  font-weight: bold;
+  width: 1000px;
+}
+.cont22 {
+  background-color: #20b2aa;
+  padding: 50px 50px;
+  border-radius: 10px;
+  height: 200px;
+}
+.sectionSeven h6 {
+  float: right;
+  padding: 10px 50px;
+  cursor: pointer;
+}
+.sectionSeven h6:hover {
+  color: #0000cd;
+}

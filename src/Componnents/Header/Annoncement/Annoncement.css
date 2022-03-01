@@ -1,0 +1,22 @@
+.annoucement {
+  background-color: rgb(30, 79, 216);
+  width: 100%;
+  height: 70px;
+}
+.annConHed i {
+  margin-top: 15px;
+  font-size: x-large;
+}
+.annCont {
+  display: flex;
+  justify-content: space-around;
+  color: white;
+}
+.annConHed {
+  display: flex;
+  gap: 20px;
+}
+.annConHed p {
+  font-size: 17px;
+  margin-top: 10px;
+}
